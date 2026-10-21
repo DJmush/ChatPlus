@@ -1,0 +1,50 @@
+name: Signaler un bug (Français)
+description: Un problème avec Chat+ ? Décris-le ici en français.
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "L'auteur est français. Les signalements en français et en anglais sont acceptés. Vérifie les bugs existants et retire les données privées de tes pièces jointes."
+  - type: input
+    id: mod_version
+    attributes:
+      label: Version de Chat+
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: minecraft_version
+    attributes:
+      label: Version de Minecraft
+      placeholder: "26.3"
+    validations:
+      required: true
+  - type: input
+    id: loader_version
+    attributes:
+      label: Version de Fabric Loader
+      placeholder: 0.19.5
+  - type: textarea
+    id: actual
+    attributes:
+      label: Problème rencontré
+      description: Que se passe-t-il ?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Étapes pour reproduire
+      description: Indique les actions et réglages nécessaires.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Résultat attendu
+  - type: textarea
+    id: details
+    attributes:
+      label: Captures, autres mods et logs utiles
+      description: Facultatif. Ne partage pas ton historique de chat complet, des jetons ou des informations privées.

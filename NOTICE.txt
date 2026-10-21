@@ -1,0 +1,39 @@
+Chat+ — Rights and provenance notice (2026-10-21)
+
+Project owner / publisher: DJmush
+Development: independent implementation with generative-AI assistance.
+Current logo: created by Zaellaa without artificial intelligence, as
+identified by the project owner. Copyright (c) 2026 Zaellaa, to the extent
+held. The supplied drawing is included unchanged. This credit does not
+assert a transfer of the artist's copyright to DJmush.
+
+FUNCTIONAL INSPIRATION
+Chat+ draws functional inspiration from other Minecraft mods that add chat
+customization options. Its implementation is independent. No source, class,
+resource or bundled dependency from those reference mods is distributed
+inside Chat+. Earlier technical comparisons and their exact scope remain
+available in the private development repository's historical provenance
+records, with their limitations. This notice is not a legal certificate.
+
+EXTERNAL COMPONENTS — NOT BUNDLED IN THE CHAT+ JAR
+Minecraft Java 26.3: Mojang / Microsoft; separate game terms apply.
+https://www.minecraft.net/eula
+Fabric Loader 0.19.5: FabricMC; Apache-2.0.
+https://github.com/FabricMC/fabric-loader/blob/0.19.5/LICENSE
+MixinExtras 0.5.5: LlamaLad7; MIT; supplied separately by Fabric Loader.
+https://github.com/LlamaLad7/MixinExtras/blob/0.5.5/LICENSE
+Mod Menu 21.0.0-beta.1: TerraformersMC and contributors; MIT; optional.
+https://github.com/TerraformersMC/ModMenu
+Log4j Core 2.26.0: Apache Software Foundation; Apache-2.0; game runtime.
+https://logging.apache.org/log4j/2.x/
+
+Minecraft runtime libraries (including Gson, SLF4J, JOML and Fastutil), Java,
+Mixin and build tools retain their respective rights and licenses. This is
+an identification notice, not a distribution of those components or an
+exhaustive inventory of Minecraft's own dependencies.
+The development-only provenance tool uses ASM, separately installed in the
+local Gradle cache. Neither ASM nor that tool is part of the runtime JAR.
+
+Chat+ is not an official Minecraft product and is not approved by or
+associated with Mojang or Microsoft. Third-party names identify components
+or compatibility and do not imply endorsement.

@@ -1,0 +1,49 @@
+name: Bug report (English)
+description: Report a problem with Chat+ in English.
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "The author is French. Reports are welcome in English and French. Check existing issues and remove private information from attachments."
+  - type: input
+    id: mod_version
+    attributes:
+      label: Chat+ version
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: minecraft_version
+    attributes:
+      label: Minecraft version
+      placeholder: "26.3"
+    validations:
+      required: true
+  - type: input
+    id: loader_version
+    attributes:
+      label: Fabric Loader version
+      placeholder: 0.19.5
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include the actions and settings needed to reproduce the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+  - type: textarea
+    id: details
+    attributes:
+      label: Screenshots, other mods and relevant logs
+      description: Optional. Do not post full chat histories, tokens or private information.

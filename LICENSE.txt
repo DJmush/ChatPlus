@@ -1,0 +1,60 @@
+Chat+ — Proprietary License, version 1.0.0
+Copyright (c) 2026 DJmush. All rights reserved, to the extent held.
+
+1. Scope and ownership
+This license covers original Chat+ software and material only to the extent
+that DJmush holds the necessary rights. Public availability is not an open
+source license and does not transfer ownership. Source code remains private.
+If protected source code or bytecode is readable or otherwise accessible,
+the same reservation of rights applies, subject to applicable law.
+The logo was created by Zaellaa without artificial intelligence. Her rights
+are retained; no transfer of her copyright to DJmush is asserted.
+
+2. Free, unlimited ordinary gameplay use
+You may download an officially distributed copy, install it, make personal
+backups and use Chat+ free of charge for ordinary Minecraft gameplay, on any
+number of your game installations and without a time or play-session limit.
+This includes single-player and multiplayer use, subject to Minecraft's
+terms, applicable platform terms and the rules of the server you join.
+No payment, subscription or separate permission from DJmush is needed for
+that ordinary use. You may show normal gameplay in screenshots, videos and
+streams, subject to the rights and rules applicable to those materials.
+You may create and share your own configurations and data exports, subject
+to any third-party rights and privacy obligations in their contents.
+
+3. Reserved uses and written permission
+Except where applicable law or a separate written authorization permits it,
+no license is granted to redistribute or republish Chat+ files, sell or
+sublicense the mod, modify or publish protected source/code, create or
+distribute derivative versions, relicense protected material, or reuse the
+code, logo or other protected assets in another product or project.
+Such uses require prior written permission from the relevant rights holder:
+DJmush for rights he actually holds, and Zaellaa or another rights holder
+where their material is concerned. Do not remove or falsify legal notices
+or misrepresent authorship. Mandatory legal rights are not restricted.
+
+4. Official distribution and hosting
+DJmush authorizes distribution of official Chat+ releases through the GitHub
+and Modrinth project pages maintained by DJmush, and authorizes those hosts
+to store and deliver the submitted files as needed under their applicable
+service terms. This is not a general redistribution license to other parties.
+Public repository files remain subject to GitHub's applicable viewing and
+forking terms; those platform rights do not make the private software open
+source or grant a general exploitation license for the mod.
+
+5. Third-party rights and user data
+Minecraft, Fabric, Mod Menu, runtime libraries, trademarks and other
+third-party material retain their own rights and terms. This license neither
+replaces their licenses nor claims their endorsement. See NOTICE.txt.
+DJmush does not claim ownership of your conversations, notes, screenshots,
+configuration exports or other user data. Their availability does not grant
+rights to exploit someone else's protected material or private information.
+
+6. Development, limitations and warranty
+The software was developed with generative-AI assistance, separately from
+Zaellaa's artist-created logo. This license reserves only rights that exist
+and are actually held; it does not create rights in unprotectable material.
+To the extent permitted by applicable law, Chat+ is provided as is, without
+warranty. Nothing excludes mandatory rights, exceptions or liability that
+cannot lawfully be excluded. No technical or legal guarantee against copying,
+decompilation, security incidents or unauthorized use is made.
