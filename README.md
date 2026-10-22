@@ -19,9 +19,9 @@ Compact settings with integrated help, direct layout editing, Apply and reset co
 
 ## Install
 
-Requires **Minecraft Java 26.3**, **Fabric Loader 0.19.5+** and **Java 25**. Mod Menu is optional; Fabric API is not required.
+Requires **Minecraft Java 26.3**, **Fabric Loader 0.19.5+**. Mod Menu is optional; Fabric API is not required.
 
-1. Download **ChatPlus-1.1.0.jar** from the [latest GitHub release](https://github.com/DJmush/ChatPlus/releases/latest).
+1. Download the latest **Chat+ JAR** from the [latest GitHub release](https://github.com/DJmush/ChatPlus/releases/latest).
 2. Close Minecraft, remove the previous Chat+ JAR and put the new JAR in your Fabric profile's `mods` folder.
 3. Open **Chat+** from Minecraft Options, the Multiplayer menu or Mod Menu.
 
@@ -34,6 +34,12 @@ Developed by **DJmush, a French author**. Bug reports are welcome in **English a
 Use [GitHub Issues](https://github.com/DJmush/ChatPlus/issues/new/choose) and select your language. Include your mod/game/loader versions, steps to reproduce and the expected result. Screenshots or a short relevant log excerpt can help. Remove private messages, tokens and other personal information before posting.
 
 **Signaler un bug :** les signalements en français sont les bienvenus. Choisis le formulaire français et décris les étapes du problème.
+
+## Suggestions
+
+Have an idea for Chat+? Share it in [GitHub Suggestions](https://github.com/DJmush/ChatPlus/discussions/categories/suggestions). Feature requests and improvements are welcome in **English and French**. Search existing discussions before creating a new suggestion.
+
+**Une idée ?** Propose une fonctionnalité ou une amélioration dans la rubrique Suggestions, en français ou en anglais.
 
 ## License and credits
 
@@ -49,6 +55,7 @@ Chat+ stores configured history, sent inputs, notes and settings locally. Review
 
 - [Download / releases](https://github.com/DJmush/ChatPlus/releases)
 - [Modrinth](https://modrinth.com/mod/chatplus-djmush)
+- [Suggestions — English / Français](https://github.com/DJmush/ChatPlus/discussions/categories/suggestions)
 - [Bug reports — English / Français](https://github.com/DJmush/ChatPlus/issues/new/choose)
 - [Source access — private](https://github.com/DJmush/ChatPlus/blob/main/SOURCE.md)
 - [License](https://github.com/DJmush/ChatPlus/blob/main/LICENSE.txt)

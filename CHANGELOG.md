@@ -2,6 +2,14 @@
 
 ## Chat+ 1.1.0
 
+### Project links update — 23 October 2026
+
+- Added a compact, collapsible Links panel on the right of Preferences, with project downloads, GitHub, bug reports, suggestions, license and credit links. Small windows keep these links in the scrolling list.
+- Added the public GitHub Suggestions category and bilingual suggestion form; bugs remain in Issues.
+- Added a Suggestions link to Mod Menu and the proposed English/French Modrinth descriptions.
+- Removed the standalone Java installation requirement from player-facing getting-started text. Fabric's technical runtime requirement is unchanged.
+- Version remains **1.1.0** at the author’s request. The previous 1.1.0 build is retained in the private recovery backup; version 1.0.0 remains available.
+
 A clearer settings interface, integrated help and lighter message filtering.
 
 ### New and improved
@@ -28,11 +36,13 @@ A clearer settings interface, integrated help and lighter message filtering.
 - Updated licensing notices, icon attribution and public/private release documentation. Logo by **Zaellaa**, created without AI; Font Awesome icons retain **CC BY 4.0**.
 
 ### Compatibility
-Minecraft Java **26.3**, **Fabric Loader 0.19.5+**, **Java 25**, client only. Mod Menu is optional; Fabric API is not required. Keep one Chat+ JAR installed. Existing configuration schema remains compatible.
+Minecraft Java **26.3**, **Fabric Loader 0.19.5+**, client only. Mod Menu is optional; Fabric API is not required. Keep one Chat+ JAR installed. Existing configuration schema remains compatible.
 
-36,543 automated checks passed, including native Fabric/Mixin loading with and without Mod Menu. Live account services, GPU rendering and audio were not newly certified by these checks.
+36,787 automated checks passed, including native Fabric/Mixin loading with and without Mod Menu. Live account services, GPU rendering and audio were not newly certified by these checks.
 
 Bug reports are welcome in **English or French**: https://github.com/DJmush/ChatPlus/issues
+
+Suggestions are welcome in **English or French**: [Suggest a feature](https://github.com/DJmush/ChatPlus/discussions/categories/suggestions).
 
 The previous **1.0.0** release remains available.
 
