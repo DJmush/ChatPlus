@@ -1,0 +1,29 @@
+title: "[Suggestion] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a feature idea or improvement for Chat+. English and French are welcome.
+        Proposez une fonctionnalité ou une amélioration de Chat+, en français ou en anglais.
+
+        Search existing suggestions first. For bugs, use [Bug reports](https://github.com/DJmush/ChatPlus/issues/new/choose).
+        Vérifiez les idées existantes. Pour un bug, utilisez les formulaires de signalement.
+  - type: textarea
+    id: idea
+    attributes:
+      label: "Your idea / Votre idée"
+      description: "What would you like Chat+ to do? / Que souhaitez-vous ajouter ou améliorer ?"
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: "Why it would help / Son intérêt"
+      description: "Describe a situation or example. / Décrivez une situation ou un exemple."
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: "Optional details / Précisions facultatives"
+      description: "Examples or alternatives. Avoid sharing private messages or personal data. / Exemples ou alternatives. Évitez les messages privés et données personnelles."
