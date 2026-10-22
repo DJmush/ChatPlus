@@ -9,3 +9,5 @@ Normal gameplay use is free and unlimited under [LICENSE.txt](LICENSE.txt). Sour
 For a permission or source-access request, [open a GitHub issue](https://github.com/DJmush/ChatPlus/issues/new) explaining the intended use. Access is discretionary and any exploitation permission must be agreed in writing by the relevant rights holder.
 
 Pour une demande d'autorisation ou d'accès aux sources, tu peux également écrire en français. L'utilisation normale du mod en jeu est gratuite et sans limite de durée.
+
+Separately licensed Font Awesome icons retain their own CC BY 4.0 permissions; see NOTICE.txt. Private source access does not change those third-party rights.

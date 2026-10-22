@@ -9,15 +9,19 @@
 - **Alerts:** highlight important messages with colors, styles and custom notification sounds.
 - **Chat appearance:** adjust layout, buttons, animations, public player bubbles and optional bubble speech.
 - **Player tools:** keep personal notes and ratings, ignore players and manage your Microsoft friends.
-- **Personalization:** theme menus and inventory interfaces, choose shortcuts, and import or export selected settings.
+- **Personalization:** theme Chat+ and game menus, choose shortcuts, and import or export selected settings.
 
 English and French interface. Client-side: no server installation required.
+
+## What’s new in 1.1.0
+
+Compact settings with integrated help, direct layout editing, Apply and reset controls, and lower allocation costs in channel/alert filtering. See the [release notes](CHANGELOG.md).
 
 ## Install
 
 Requires **Minecraft Java 26.3**, **Fabric Loader 0.19.5+** and **Java 25**. Mod Menu is optional; Fabric API is not required.
 
-1. Download **ChatPlus-1.0.0.jar** from the [latest GitHub release](https://github.com/DJmush/ChatPlus/releases/latest).
+1. Download **ChatPlus-1.1.0.jar** from the [latest GitHub release](https://github.com/DJmush/ChatPlus/releases/latest).
 2. Close Minecraft, remove the previous Chat+ JAR and put the new JAR in your Fabric profile's `mods` folder.
 3. Open **Chat+** from Minecraft Options, the Multiplayer menu or Mod Menu.
 
@@ -34,6 +38,8 @@ Use [GitHub Issues](https://github.com/DJmush/ChatPlus/issues/new/choose) and se
 ## License and credits
 
 **Free, unlimited ordinary gameplay use. Proprietary software; source code is private.** Reuse, modification, redistribution or exploitation of protected code/assets requires the relevant rights holder's prior written permission, except where applicable law permits it. Public visibility does not make this an open source project. See [LICENSE.txt](LICENSE.txt) and [source access](SOURCE.md).
+
+Font Awesome interface icons and their PNG adaptations retain CC BY 4.0; those separate rights are not restricted by the proprietary software terms. See [NOTICE.txt](NOTICE.txt) and [icon attribution](licenses/Font-Awesome-icons.txt).
 
 **Logo created by Zaellaa without artificial intelligence**, used unchanged. Her authorship and rights are retained. The software was developed with AI assistance; this is separate from the logo's creation. Third-party notices are in [NOTICE.txt](NOTICE.txt).
 

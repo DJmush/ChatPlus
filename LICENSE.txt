@@ -46,6 +46,12 @@ source or grant a general exploitation license for the mod.
 Minecraft, Fabric, Mod Menu, runtime libraries, trademarks and other
 third-party material retain their own rights and terms. This license neither
 replaces their licenses nor claims their endorsement. See NOTICE.txt.
+In particular, the included Font Awesome Free icons and their PNG
+adaptations remain licensed under CC BY 4.0. The restrictions in sections
+2 to 4 do not override the rights granted by that third-party license.
+They may be extracted and reused under its own terms, including attribution
+and identification of changes. See licenses/Font-Awesome-Free.txt and
+licenses/Font-Awesome-icons.txt in the distributed JAR.
 DJmush does not claim ownership of your conversations, notes, screenshots,
 configuration exports or other user data. Their availability does not grant
 rights to exploit someone else's protected material or private information.

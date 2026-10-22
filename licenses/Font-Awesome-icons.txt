@@ -1,0 +1,47 @@
+Chat+ interface icon attribution
+
+Font Awesome Free 7.3.1
+Copyright (c) 2026 Fonticons, Inc. — https://fontawesome.com/
+Upstream: https://github.com/FortAwesome/Font-Awesome/tree/7.3.1
+Icons: Creative Commons Attribution 4.0 International (CC BY 4.0).
+License: https://creativecommons.org/licenses/by/4.0/
+Legal text: https://creativecommons.org/licenses/by/4.0/legalcode.en
+Upstream license notice: licenses/Font-Awesome-Free.txt in this JAR.
+
+Changes by Chat+: selected solid SVG icons converted to 32 x 32 pixel PNG
+textures, resized and colored white. The circle-info texture is dark for
+use on the yellow help button. These adaptations retain CC BY 4.0.
+No icon font or JavaScript library is bundled. The icons are separate from
+Chat+'s proprietary code license. No endorsement by Fonticons is implied.
+
+Included icons and original sources:
+arrow-left: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/arrow-left.svg
+bell: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/bell.svg
+box-archive: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/box-archive.svg
+check: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/check.svg
+circle-info: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/circle-info.svg
+clock: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/clock.svg
+comment: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/comment.svg
+comments: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/comments.svg
+envelope: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/envelope.svg
+eye: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/eye.svg
+file-export: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/file-export.svg
+file-import: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/file-import.svg
+film: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/film.svg
+gear: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/gear.svg
+keyboard: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/keyboard.svg
+magnifying-glass: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/magnifying-glass.svg
+palette: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/palette.svg
+pen-to-square: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/pen-to-square.svg
+plus: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/plus.svg
+rotate-left: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/rotate-left.svg
+ruler-combined: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/ruler-combined.svg
+shield-halved: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/shield-halved.svg
+sliders: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/sliders.svg
+star: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/star.svg
+up-down-left-right: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/up-down-left-right.svg
+user-group: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/user-group.svg
+user-slash: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/user-slash.svg
+user: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/user.svg
+users: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/users.svg
+volume-high: https://github.com/FortAwesome/Font-Awesome/blob/7.3.1/svgs/solid/volume-high.svg

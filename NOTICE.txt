@@ -1,4 +1,4 @@
-Chat+ — Rights and provenance notice (2026-10-21)
+Chat+ — Rights and provenance notice (2026-10-22)
 
 Project owner / publisher: DJmush
 Development: independent implementation with generative-AI assistance.
@@ -37,3 +37,16 @@ local Gradle cache. Neither ASM nor that tool is part of the runtime JAR.
 Chat+ is not an official Minecraft product and is not approved by or
 associated with Mojang or Microsoft. Third-party names identify components
 or compatibility and do not imply endorsement.
+
+Interface icons: Font Awesome Free 7.3.1, Copyright 2026 Fonticons, Inc.
+https://fontawesome.com/ — https://github.com/FortAwesome/Font-Awesome
+Icons licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Selected SVG icons converted to PNG textures and resized by Chat+.
+The icons are white except the dark information symbol for the yellow button.
+Full upstream license: licenses/Font-Awesome-Free.txt in the mod JAR.
+These third-party icons are excluded from the proprietary code license.
+The PNG adaptations remain under CC BY 4.0. The proprietary Chat+ terms do
+not restrict the rights granted by that license for the icons themselves.
+Source links and the full list of included icons are provided in
+licenses/Font-Awesome-icons.txt. No Font Awesome font or JavaScript library
+is bundled. Attribution does not imply endorsement by Fonticons, Inc.
