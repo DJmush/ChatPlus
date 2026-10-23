@@ -13,19 +13,21 @@
 
 English and French interface. Client-side: no server installation required.
 
-## What’s new in 1.1.0
+## What's new in 1.2.0
 
-Compact settings with integrated help, direct layout editing, Apply and reset controls, and lower allocation costs in channel/alert filtering. See the [release notes](CHANGELOG.md).
+One JAR for Fabric and the tested Quilt loader, refreshed default styling, and visual and sound notifications when your name is mentioned. Interface icons and translations also work without Mod Menu. Ordinary messages create fewer temporary objects; existing saved settings stay unchanged. See the [release notes](CHANGELOG.md).
 
 ## Install
 
-Requires **Minecraft Java 26.3**, **Fabric Loader 0.19.5+**. Mod Menu is optional; Fabric API is not required.
+Requires **Minecraft Java 26.3** and either **Fabric Loader 0.19.5+** or the tested **Quilt Loader 0.31.0-beta.4**. Mod Menu is optional; Fabric API is not required.
 
-1. Download the latest **Chat+ JAR** from the [latest GitHub release](https://github.com/DJmush/ChatPlus/releases/latest).
-2. Close Minecraft, remove the previous Chat+ JAR and put the new JAR in your Fabric profile's `mods` folder.
+1. Download **ChatPlus-1.2.0.jar** from [Modrinth](https://modrinth.com/mod/chatplus-djmush) or [GitHub releases](https://github.com/DJmush/ChatPlus/releases/tag/v1.2.0).
+2. Close Minecraft, back up your profile/settings, and put the JAR in your Fabric or Quilt profile's `mods` folder. Keep one Chat+ JAR per profile.
 3. Open **Chat+** from Minecraft Options, the Multiplayer menu or Mod Menu.
 
 Choose a server, create your channels and use the assistant to filter messages. Settings are saved through the common Save/Discard prompt. Existing Chat+ settings and previous-format configuration exports remain supported.
+
+New installations use the refreshed factory appearance. Updates preserve existing choices. Reset restores these defaults but removes configured channel/alert rules; it is not required for normal updates.
 
 ## Report a bug
 

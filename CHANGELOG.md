@@ -1,5 +1,34 @@
 # Changelog
 
+## Chat+ 1.2.0
+
+- Apply the owner's approved visual profile: transparent menu themes, button colors/borders, independent free toolbar positions, fluid chat animation, lightweight player cards, bubble height and timestamp/counter colors.
+- Enable both name-mention styling and the Minecraft bit notification sound by default. Keep the export's precise styling, sound volume, pitch and cooldown.
+- Initialize the eight shared Minecraft chat appearance options once for a genuinely new Chat+ profile, including a transparent chat background. Existing saved profiles and native choices are preserved; Reset uses the same approved factory profile.
+- Keep a versioned reference in `docs/defaults/1.2.0.json`, with original export/provenance retained privately. The reference is tested against runtime values; no preset JSON is parsed during normal settings construction/copying.
+- Avoid a full component copy for ordinary messages when only mention styling is needed. Preserve native click/hover information, alert/note processing and identity caching.
+- Preserve prior releases, personal channels, histories, player data, shortcuts and nonvisual behavior. Existing saved configurations keep their settings.
+- Support Fabric Loader 0.19.5+ and the tested Quilt Loader 0.31.0-beta.4 on Minecraft Java 26.3 with the same JAR. Mod Menu is optional; Fabric API is not required.
+- Fix missing icons and translations without Mod Menu or Fabric Resource Loader. Register only Chat+'s own resources through the native fallback.
+- Reuse custom server-filter regex matchers and clear message references after matching. In the targeted workload, temporary allocations fall by 43.05% compared with 1.1.0, with effectively unchanged processing time.
+- With mention styling enabled identically, the new fast path reduces temporary allocations by 46.02% without a mention and 26.86% with a mention versus 1.2.0-beta.1; median processing time falls by about 18.3%. These are microbenchmark results, not whole-client FPS/RAM claims.
+
+39,724 automated checks passed across 64 suites. Fabric 0.19.5 and Quilt 0.31.0-beta.4 were independently verified with and without Mod Menu 21.0.0-beta.1: 466 native checks, 20 targets, 35 resources, 11 rendered screens and the effective factory defaults in each case. Isolated graphical clients used a two-processor test limit and muted audio; these checks do not certify live Microsoft exchanges or audible speech. The owner also reported that the preceding shared beta worked under both loaders. Previous releases remain unchanged.
+
+## Chat+ 1.2.0-beta.1 — local multiplayer test candidate
+
+- One client JAR for Minecraft 26.3, Fabric Loader 0.19.5+ and the tested Quilt Loader 0.31.0-beta.4 target. Quilt stable 0.30.1 does not satisfy the current Fabric-compatibility dependency.
+- Fix missing interface textures and native translations when running without Mod Menu or Fabric Resource Loader. A small native fallback registers Chat+'s own resources only; user resource packs keep their normal priority. No additional API or bundled library is required.
+- Reuse per-rule regex matchers for custom server filters, clearing message references after every match. Disabled server profiles skip unnecessary custom-pattern compilation.
+- In the custom server-filter benchmark against the preserved 1.1.0 JAR, temporary allocations fall by 43.05% (144 bytes per operation). Processing time is effectively unchanged; this is not a whole-client RAM or FPS claim.
+- Keep configuration schema, message identity, histories, channel behavior, friends integration and speech settings unchanged.
+- Add reproducible, independent Fabric and Quilt candidate checks, with a dedicated optimization review before each installable delivery.
+- Preserve all delivered 1.1.0 JARs, source/public bundles and checksums. No publication is performed for this local beta.
+
+The owner will validate authenticated multiplayer, Microsoft friend exchanges and bubble speech. Version-specific reports record the exact test/benchmark results and their limits; automated clients do not certify these live flows.
+
+Testing note: one Fabric + Mod Menu graphical run rendered all screens/assets but encountered a native Windows interruption at shutdown. A targeted two-processor retry exited normally; the cause is not established. The reports retain both observations, and the mod does not impose a CPU limit. This beta awaits normal-profile acceptance testing.
+
 ## Chat+ 1.1.0
 
 ### Project links update — 23 October 2026

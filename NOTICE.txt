@@ -1,4 +1,4 @@
-Chat+ — Rights and provenance notice (2026-10-22)
+Chat+ — Rights and provenance notice (2026-10-23)
 
 Project owner / publisher: DJmush
 Development: independent implementation with generative-AI assistance.
@@ -20,7 +20,9 @@ Minecraft Java 26.3: Mojang / Microsoft; separate game terms apply.
 https://www.minecraft.net/eula
 Fabric Loader 0.19.5: FabricMC; Apache-2.0.
 https://github.com/FabricMC/fabric-loader/blob/0.19.5/LICENSE
-MixinExtras 0.5.5: LlamaLad7; MIT; supplied separately by Fabric Loader.
+Quilt Loader 0.31.0-beta.4: QuiltMC contributors; Apache-2.0; tested alternative loader.
+https://github.com/QuiltMC/quilt-loader
+MixinExtras 0.5.5: LlamaLad7; MIT; supplied separately by Fabric or Quilt Loader.
 https://github.com/LlamaLad7/MixinExtras/blob/0.5.5/LICENSE
 Mod Menu 21.0.0-beta.1: TerraformersMC and contributors; MIT; optional.
 https://github.com/TerraformersMC/ModMenu
